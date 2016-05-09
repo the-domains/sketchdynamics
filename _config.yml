@@ -1,0 +1,28 @@
+name: SKETCHDYNAMICS
+favicon: null
+layout_spectrum: 0.867705809418112
+typography_spectrum: 0.5477989702485502
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9019167937804013
+  lightness: 0.7052706808317453
+  saturation: 0.1081139191519469
+  rhythmicContrast: 0.3906583625357598
+purpose: []
